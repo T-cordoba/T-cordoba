@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Tomas Córdoba 👋</h1>
-<h3 align="center">A passionate software engineering student at Universidad de Medellín.</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Tomas+C%C3%B3rdoba+Urquijo" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=2nd-year+Software+Engineering;University+of+Medell%C3%ADn+student+;Aspiring+Full+Stack+Developer" alt="Typing SVG" />    </a>
+</p>
+
 
 - 🌱 I’m currently learning **Python** and starting with **basic database usage**.
 - 🎯 My goals include learning **Java** and exploring **front-end web development**.
