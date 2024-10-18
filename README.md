@@ -12,15 +12,11 @@
 
 ---
 
-<br>
-
 <h2>About me</h2>
 
   - 🌱 Currently developing skills in: Python programming, while exploring the fundamentals of database management and integration.
   - 🎯 Future goals: Expanding my expertise by learning Java and diving deeper into front-end web development, with the aim of becoming a well-rounded Full Stack Developer.
   - 📫 Feel free to reach out: You can contact me at tommy.cormo@gmail.com.
-
-<br>
 
 <h2>Current Languages & Tools</h2>
 
