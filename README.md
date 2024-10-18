@@ -27,3 +27,7 @@
 <h2>Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,figma)](https://skillicons.dev)
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-cordoba&show_icons=true&theme=transparent&title_color=B08CF7FF&icon_color=7f41fa&text_color=b8b8b8&border_color=B08CF7)
