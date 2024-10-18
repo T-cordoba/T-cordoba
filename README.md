@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Córdoba</h1>
+<h1 align="center">Hi, I'm Tomas Córdoba 👋</h1>
 <h3 align="center">A passionate software engineering student at Universidad de Medellín.</h3>
 
 - 🌱 I’m currently learning **Python** and starting with **basic database usage**.
