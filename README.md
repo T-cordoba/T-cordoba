@@ -18,6 +18,10 @@
   - 🎯 Future goals: Expanding my expertise by learning Java and diving deeper into front-end web development, with the aim of becoming a well-rounded Full Stack Developer.
   - 📫 Feel free to reach out: You can contact me at tommy.cormo@gmail.com.
 
-<h2>Current Languages & Tools</h2>
+<h2>Current Languages</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,html)](https://skillicons.dev)
+
+<h2>Tools</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,figma)](https://skillicons.dev)
