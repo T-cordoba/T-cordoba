@@ -30,4 +30,9 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-cordoba&show_icons=true&theme=transparent&title_color=B08CF7FF&icon_color=7f41fa&text_color=b8b8b8&border_color=B08CF7)
+<p align="center">
+  <a href="https://github.com/T-cordoba">
+      <img src="https://github-readme-stats.vercel.app/api?username=T-cordoba&hide=stars,prs&show_icons=true&theme=transparent&title_color=B08CF7FF&icon_color=7f41fa&text_color=b8b8b8&border_color=B08CF7&rank_icon=github" alt="Anurag's GitHub stats">
+  </a>
+</p>
+  
