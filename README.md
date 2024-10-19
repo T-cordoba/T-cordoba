@@ -18,7 +18,7 @@
 
 - 🌱 **Current Skills:** Python programming, exploring database management and integration.
 - 🎯 **Future Goals:** Learning Java and deepening my front-end web development skills to become a well-rounded Full Stack Developer.
-- 📫 **Contact:** Feel free to reach out at [tommy.cormo@gmail.com](mailto:tommy.cormo@gmail.com).
+- 📫 **Contact:** Feel free to reach out at [tcordoba745@soyudemedellin.edu.co](mailto:tcordoba745@soyudemedellin.edu.co).
 
 <h2>Current Languages</h2>
 
