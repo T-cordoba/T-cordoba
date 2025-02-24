@@ -22,11 +22,11 @@
 
 <h2>Current Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,nodejs,mysql,git,figma)](https://skillicons.dev)
 
 <br>
 
