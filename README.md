@@ -18,7 +18,11 @@
 
 - 🌱 **Current Skills:** Python programming, exploring database management and integration.
 - 🎯 **Future Goals:** Learning Java and deepening my front-end web development skills to become a well-rounded Full Stack Developer.
-- 📫 **Contact:** Feel free to reach out at [tcordoba745@soyudemedellin.edu.co](mailto:tcordoba745@soyudemedellin.edu.co).
+
+<h2>Contact me</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomas-córdoba-82a68b308)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tcordoba745@soyudemedellin.edu.co)
 
 <h2>Current Languages</h2>
 
