@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=2nd-year+Software+Engineering;University+of+Medell%C3%ADn+student;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+student;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,10 @@
 
 <h2>About Me</h2>
 
-- 🌱 **Current Skills:** Python programming, exploring database management and integration.
-- 🎯 **Future Goals:** Learning Java and deepening my front-end web development skills to become a well-rounded Full Stack Developer.
+- 🚀 **Current Skills:** Python, JavaScript, TypeScript fundamentals, PostgreSQL database management, and exploring modern web technologies like Tailwind CSS. Experience deploying projects on Vercel and Render platforms.
+- 💻 **Currently Working On:** [UnivGo](https://github.com/yourusername/UnivGo) - An academic platform built with Next.js, React Native and NestJS.
+- 🔍 **Currently Learning:** Next.js, React Native with Expo, and working with NestJS for backend development through project-based learning.
+- 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks and expanding my knowledge in frontend and backend technologies.
 
 <h2>Contact me</h2>
 
@@ -26,11 +28,11 @@
 
 <h2>Current Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,typescript)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,nodejs,mysql,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
 <br>
 
