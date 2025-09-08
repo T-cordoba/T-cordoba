@@ -20,8 +20,8 @@
 - 💻 **Currently Working On:**
   - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
   - [Encore Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
-- 🔍 **Currently Learning:** Next.js, React Native with Expo, NestJS for backend development, and exploring Supabase for database and authentication solutions.
-- 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks and expanding my knowledge in frontend and backend technologies.
+- 🔍 **Currently Learning:** Next.js, React Native with Expo, NestJS for backend development, exploring Supabase for database and authentication solutions, and recently started learning about test automation with Selenium.
+- 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks, expanding my knowledge in frontend and backend technologies, and learning to use Selenium for test automation.
 
 <h2>Contact me</h2>
 
