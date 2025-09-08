@@ -17,7 +17,9 @@
 <h2>About Me</h2>
 
 - 🚀 **Current Skills:** Python, JavaScript, TypeScript fundamentals, PostgreSQL database management, and exploring modern web technologies like Tailwind CSS. Experience deploying projects on Vercel and Render platforms.
-- 💻 **Currently Working On:** [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
+- 💻 **Currently Working On:**
+  - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
+  - [Encore Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
 - 🔍 **Currently Learning:** Next.js, React Native with Expo, NestJS for backend development, and exploring Supabase for database and authentication solutions.
 - 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks and expanding my knowledge in frontend and backend technologies.
 
