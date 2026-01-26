@@ -34,6 +34,6 @@
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,vite,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
 <br>
