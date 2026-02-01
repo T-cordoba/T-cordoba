@@ -37,3 +37,9 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,vite,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
 <br>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-cordoba/T-cordoba/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-cordoba/T-cordoba/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T-cordoba/T-cordoba/output/pacman-contribution-graph.svg">
+</picture>
