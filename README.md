@@ -39,19 +39,19 @@
 
 <h2>Current Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,py,html,css)](https://skillicons.dev)
 
 ###
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,nestjs,tailwind)](https://skillicons.dev)
 
 ###
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,nodejs,npm,vite,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
 ###
 
