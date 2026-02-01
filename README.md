@@ -59,10 +59,12 @@
 
 <h2 align=center>Stats</h2>
 
-<div align=center>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T-cordoba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<p align=center>
+  <a href='https://github.com/anuraghazra/github-readme-stats'>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T-cordoba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 
 <br>
 
