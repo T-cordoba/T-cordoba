@@ -36,6 +36,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,vite,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
+---
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T-cordoba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 <br>
 
 <picture>
