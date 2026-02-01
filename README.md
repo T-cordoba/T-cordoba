@@ -14,29 +14,42 @@
 
 ---
 
+###
+
 <h2>About Me</h2>
 
 - 🚀 **Current Skills:** Python, JavaScript, TypeScript fundamentals, PostgreSQL database management, and exploring modern web technologies like Tailwind CSS. Experience deploying projects on Vercel and Render platforms.
+
 - 💻 **Currently Working On:**
   - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
   - [Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
+
 - 🔍 **Currently Learning:** Next.js, React Native with Expo, NestJS for backend development, exploring Supabase for database and authentication solutions, and recently started learning about test automation with Selenium.
+
 - 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks, expanding my knowledge in frontend and backend technologies, and learning to use Selenium for test automation.
+
+###
 
 <h2>Contact me</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomas-córdoba-82a68b308)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tcordoba745@soyudemedellin.edu.co)
 
+###
+
 <h2>Current Languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,typescript)](https://skillicons.dev)
+
+###
 
 <h2>Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,react,next,vite,nodejs,nestjs,tailwind,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
 
----
+###
+
+<h2>Stats</h2>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
