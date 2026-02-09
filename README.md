@@ -25,7 +25,7 @@
   - [Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
   - [Creaciones JL](https://creaciones-jl.vercel.app/) - Online clothing store in Medellín.
 
-- 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture* Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
+- 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
 
 - 🎯 **Future Goals:** Expanding my skills into Cloud Infrastructure (AWS) and CI/CD to deploy applications from scratch, and applying general testing strategies to ensure reliability.
 
