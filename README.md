@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,npm,vite,mysql,supabase,vercel,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,npm,vite,mysql,supabase,vercel,aws,figma&perline=5" />
   </a>
 </p>
 
