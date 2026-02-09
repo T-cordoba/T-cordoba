@@ -18,48 +18,67 @@
 
 <h2>About Me</h2>
 
-- 🚀 **Current Skills:** Python, JavaScript, TypeScript fundamentals, PostgreSQL database management, and exploring modern web technologies like Tailwind CSS. Experience deploying projects on Vercel and Render platforms.
+- 🚀 **Current Skills:** Focused on delivering full-stack applications using BaaS solutions (Supabase) for database management and Serverless Edge Functions. My frontend stack is built on Next.js and Tailwind CSS.
 
 - 💻 **Currently Working On:**
   - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
   - [Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
+  - [Creaciones JL](https://creaciones-jl.vercel.app/) - Online clothing store in Medellín.
 
-- 🔍 **Currently Learning:** Next.js, React Native with Expo, NestJS for backend development, exploring Supabase for database and authentication solutions, and recently started learning about test automation with Selenium.
+- 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture* Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
 
-- 🎯 **Future Goals:** Becoming a proficient Full Stack Developer by mastering various frameworks, expanding my knowledge in frontend and backend technologies, and learning to use Selenium for test automation.
-
-###
-
-<h2>Contact me</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomas-córdoba-82a68b308)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tcordoba745@soyudemedellin.edu.co)
+- 🎯 **Future Goals:** Expanding my skills into Cloud Infrastructure (AWS) and CI/CD to deploy applications from scratch, and applying general testing strategies to ensure reliability.
 
 ###
 
-<h2>Current Languages</h2>
+<h2 align="center">Contact me</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,py,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tomas-córdoba-82a68b308">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:tcordoba745@soyudemedellin.edu.co">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ###
 
-<h2>Frameworks</h2>
+<h2 align="center">Current Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,nestjs,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,js,py,html,css" />
+  </a>
+</p>
 
 ###
 
-<h2>Tools</h2>
+<h2 align="center">Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,nodejs,npm,vite,mysql,supabase,vercel,aws,figma)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,nestjs,tailwind" />
+  </a>
+</p>
+
+###
+
+<h2 align="center">Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,npm,vite,mysql,supabase,vercel,aws,figma" />
+  </a>
+</p>
 
 ###
 
 <br>
 
-<h2 align=center>Stats</h2>
+<h2 align="center">Stats</h2>
 
-<p align=center>
+<p align="center">
   <a href='https://github.com/anuraghazra/github-readme-stats'>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T-cordoba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
