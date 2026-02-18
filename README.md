@@ -21,9 +21,9 @@
 - 🚀 **Current Skills:** Focused on delivering full-stack applications using BaaS solutions (Supabase) for database management and Serverless Edge Functions. My frontend stack is built on Next.js and Tailwind CSS.
 
 - 💻 **Currently Working On:**
+  - [Creaciones JL](https://creaciones-jl.vercel.app/) - Online clothing store in Medellín.
   - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
   - [Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
-  - [Creaciones JL](https://creaciones-jl.vercel.app/) - Online clothing store in Medellín.
 
 - 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
 
