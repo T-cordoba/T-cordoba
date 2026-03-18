@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,nestjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=next,angular,react,nestjs,tailwind" />
   </a>
 </p>
 
