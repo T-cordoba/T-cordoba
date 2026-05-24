@@ -22,7 +22,7 @@
 
 - 💻 **Currently Building:**
   - [Lymon](https://github.com/Lymonoficial/lymon-frontend) - Frontend for Lymon Colombia, built with Angular following Clean Architecture principles.
-  - [Notarías Sábado](https://notarias-sabado.vercel.app/) - Open source tool to find Saturday notary hours across Colombia. Built with Next.js + web scraping — ranked top 50 on Google organically in under 24 hours.
+  - [Notarías Sábado](https://notarias-sabado.vercel.app/) - Open source tool to find Saturday notary hours across Colombia. Built with Next.js + web scraping — indexed and appearing in Google's top 50 results for related keywords within 24 hours of deployment — achieving perfect Lighthouse scores (100/100/100/100).
   - [MindBridge](https://github.com/T-cordoba/mindbridge-frontend) - AI-assisted emotional wellness platform with journaling, mood tracking, and real-time crisis detection, powered by Together AI.
 
 - 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
