@@ -18,16 +18,16 @@
 
 <h2>About Me</h2>
 
-- 🚀 **Current Skills:** Focused on delivering full-stack applications using BaaS solutions (Supabase) for database management and Serverless Edge Functions. My frontend stack is built on Next.js and Tailwind CSS.
+- **Current Skills:** Focused on delivering full-stack applications using BaaS solutions (Supabase) for database management and Serverless Edge Functions. My frontend stack is built on Next.js and Tailwind CSS.
 
-- 💻 **Currently Building:**
+- **Currently Building:**
   - [Lymon](https://github.com/Lymonoficial/lymon-frontend) - Frontend for Lymon Colombia, built with Angular following Clean Architecture principles.
   - [Notarías Sábado](https://notarias-sabado.vercel.app/) - Open source tool to find Saturday notary hours across Colombia. Built with Next.js + web scraping — indexed and appearing in Google's top 50 results for related keywords within 24 hours of deployment — achieving perfect Lighthouse scores (100/100/100/100).
   - [MindBridge](https://github.com/T-cordoba/mindbridge-frontend) - AI-assisted emotional wellness platform with journaling, mood tracking, and real-time crisis detection, powered by Together AI.
 
-- 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
+- **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
 
-- 🎯 **Future Goals:** Expanding my skills into Cloud Infrastructure (AWS) and CI/CD to deploy applications from scratch, and applying general testing strategies to ensure reliability.
+- **Future Goals:** Expanding my skills into Cloud Infrastructure (AWS) and CI/CD to deploy applications from scratch, and applying general testing strategies to ensure reliability.
 
 ###
 
