@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+student;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+student;Full+Stack+Developer;Working+%40+Lymon+Colombia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@
 
 - 🚀 **Current Skills:** Focused on delivering full-stack applications using BaaS solutions (Supabase) for database management and Serverless Edge Functions. My frontend stack is built on Next.js and Tailwind CSS.
 
-- 💻 **Currently Working On:**
-  - [Creaciones JL](https://creaciones-jl.vercel.app/) - Online clothing store in Medellín.
-  - [UnivGo](https://github.com/JaaysCode/UnivGo) - A collaborative academic platform developed with two other students using Next.js, React Native and NestJS.
-  - [Beverage Ledger](https://github.com/T-cordoba/encore-beverage-ledger) - Casino liquor inventory system with real-time tracking, analytics, and PDF invoice generation.
+- 💻 **Currently Building:**
+  - [Lymon](https://github.com/Lymonoficial/lymon-frontend) - Frontend for Lymon Colombia, built with Angular following Clean Architecture principles.
+  - [Notarías Sábado](https://notarias-sabado.vercel.app/) - Open source tool to find Saturday notary hours across Colombia. Built with Next.js + web scraping — ranked top 50 on Google organically in under 24 hours.
+  - [MindBridge](https://github.com/T-cordoba/mindbridge-frontend) - AI-assisted emotional wellness platform with journaling, mood tracking, and real-time crisis detection, powered by Together AI.
 
 - 🔍 **Currently Learning:** *DevOps tools & Serverless Backend Architecture*, Focusing on Identity Management, Row-Level Security (RLS), and Cloud Storage strategies. Also strengthening my custom backend fundamentals with **NestJS**.
 
