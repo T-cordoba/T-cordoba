@@ -76,17 +76,6 @@
 
 <br>
 
-<h2 align="center">Stats</h2>
-
-<p align="center">
-  <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=T-cordoba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T-cordoba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-
-<br>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-cordoba/T-cordoba/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-cordoba/T-cordoba/output/pacman-contribution-graph.svg">
